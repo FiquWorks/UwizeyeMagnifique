@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Fique Rwabuhihi
+# 👋 Hello, I'm Magnifique UWIZEYE
 
 <div align="center">
 
