@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/gradient-top.png" alt="Top Gradient" width="100%" />
-</p>
-
 # 👋 Hello, I'm Magnifique UWIZEYE
 
 <div align="center">
@@ -250,9 +246,12 @@ As a dedicated **Full-Stack Software Engineer**, I bridge the gap between comple
 
 ## 📚 Current Focus & Learning
 
+```javascript
+const currentlyLearning = {
+    technologies: ['Kubernetes', 'GraphQL', 'TensorFlow'],
+    certifications: ['AWS Solutions Architect'],
+    projects: ['AI-Powered Code Review Tool'],
+    goals: ['Contribute to Open Source', 'Tech Leadership', 'Mentoring']
+};
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/gradient-bottom.png" alt="Bottom Gradient" width="100%" />
-</p>
-
+const lifeMotto = "Code with purpose, build with passion, impact with innovation";
