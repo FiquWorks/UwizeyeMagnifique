@@ -4,11 +4,10 @@
 
 ## 💻 Full-Stack Software Engineer | Problem Solver | Innovation Driver
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Java+%26+Spring+Specialist;React+%26+Node.js+Expert;Data+Analytics+Enthusiast;Problem+Solver+%26+Innovator" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uwizeyemagnifiquee/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uwizeyemagnifique@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FiquWorks)
+![Profile Views](https://komarev.com/ghpvc/?username=FiquWorks&label=Profile%20Views&color=4ECDC4&style=flat)
+![GitHub Followers](https://img.shields.io/github/followers/FiquWorks?label=Followers&style=social)
 
 </div>
 
