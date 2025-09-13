@@ -1,152 +1,257 @@
-Hello, I'm Magnifique UWIZEYE
+# 👋 Hello, I'm Magnifique UWIZEYE
+
 <div align="center">
-💻 Full-Stack Software Engineer | Problem Solver | Innovation Driver
+
+## 💻 Full-Stack Software Engineer | Problem Solver | Innovation Driver
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Java+%26+Spring+Specialist;React+%26+Node.js+Expert;Data+Analytics+Enthusiast;Problem+Solver+%26+Innovator" alt="Typing SVG" />
-https://komarev.com/ghpvc/?username=FiquWorks&label=Profile%2520Views&color=4ECDC4&style=flat
-https://img.shields.io/github/followers/FiquWorks?label=Followers&style=social
-https://badges.pufler.dev/years/FiquWorks?color=4ECDC4&style=flat
-https://badges.pufler.dev/repos/FiquWorks?color=4ECDC4&style=flat
+
+![Profile Views](https://komarev.com/ghpvc/?username=FiquWorks&label=Profile%20Views&color=4ECDC4&style=flat)
+
 
 </div>
-🎯 Professional Overview
-I'm a passionate Full-Stack Software Engineer and IT Professional dedicated to architecting scalable, secure, and innovative software solutions. With comprehensive expertise spanning both front-end and back-end technologies, I specialize in building enterprise-grade applications that solve real-world challenges and drive digital transformation.
+
+---
+
+## 🎯 Professional Overview
+
+I'm a passionate **Full-Stack Software Engineer** and **IT Professional** dedicated to architecting scalable, secure, and innovative software solutions. With comprehensive expertise spanning both front-end and back-end technologies, I specialize in building enterprise-grade applications that solve real-world challenges and drive digital transformation.
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎓 Academic Excellence
+- **Information Technology Student** specializing in Software Engineering & Data Analytics
+- Advancing expertise in cutting-edge technologies and industry best practices
+- Strong foundation in computer science fundamentals and software architecture
+
+</td>
+<td width="50%">
+
+### 💼 Professional Focus
+- Building **high-impact, scalable applications** using modern frameworks
+- Expert in enterprise-level software architecture and database optimization
+- Specialized in cloud-native solutions and microservices architecture
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌍 Mission & Vision
+- Leveraging technology to **transform industries in Rwanda and globally**
+- Committed to creating solutions that drive economic growth and social impact
+- Passionate about using technology for community development
+
+</td>
+<td width="50%">
+
+### 🔍 Core Values
+- **Continuous learning** and professional development
+- Problem-solving excellence and innovative thinking
+- Collaborative innovation and knowledge sharing
+- Quality-driven development with meaningful impact
+
+</td>
+</tr>
+</table>
+
+---
+
+## 👨‍💻 Who I Am
+
+As a dedicated **Full-Stack Software Engineer**, I bridge the gap between complex technical challenges and elegant, user-centric solutions. My journey in technology is driven by an insatiable curiosity and a commitment to excellence that spans across multiple domains:
+
+🎯 **Architecture & Design** - Crafting robust, scalable system architectures that anticipate future growth and handle complex business logic with elegance and efficiency
+
+🔧 **Full-Stack Mastery** - Seamlessly navigating both front-end user experiences and back-end system optimization, ensuring cohesive and performant applications
+
+📊 **Data-Driven Solutions** - Transforming raw data into actionable insights through advanced analytics, visualization, and machine learning implementations
+
+🌱 **Innovation Leadership** - Staying at the forefront of emerging technologies, implementing best practices, and mentoring others in the development community
+
+🤝 **Collaborative Excellence** - Building strong partnerships with cross-functional teams, translating business requirements into technical solutions that deliver measurable impact
+
+---
+
+## 🛠️ Technology Mastery
+
+### Programming Languages
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+### Frontend Technologies
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+</div>
+
+### Backend Technologies
+<div align="center">
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+</div>
+
+### Database & Analytics
+<div align="center">
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+</div>
+
+### DevOps & Cloud
+<div align="center">
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+### Security & Testing
+<div align="center">
+
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 📂 Featured Projects
+
+### 🩸 Blood Donation Management System
+
+**Enterprise-grade healthcare solution** featuring distributed architecture with Java RMI, secure OTP authentication, and real-time donor management. Includes automated PDF reporting and comprehensive audit trails.
+
+**Key Features:**
+- 🔐 Secure OTP-based authentication system
+- 📊 Real-time donor and inventory management
+- 📄 Automated PDF report generation
+- 🏥 Multi-hospital network integration
+- 📈 Advanced analytics and reporting dashboard
+
+![Java](https://img.shields.io/badge/Java-orange)
+![RMI](https://img.shields.io/badge/RMI-blue)
+![Hibernate](https://img.shields.io/badge/Hibernate-darkblue)
+![MySQL](https://img.shields.io/badge/MySQL-lightblue)
+
+---
+
+### 📊 Business Intelligence Dashboard
+
+**Advanced analytics platform** processing large datasets with interactive visualizations. Features real-time data processing, predictive analytics, and comprehensive business intelligence reporting.
+
+**Key Features:**
+- 📈 Real-time data processing and visualization
+- 🤖 Predictive analytics and machine learning integration
+- 📊 Interactive dashboards with drill-down capabilities
+- 🔄 Automated data pipeline and ETL processes
+
+![Python](https://img.shields.io/badge/Python-blue)
+![Pandas](https://img.shields.io/badge/Pandas-darkblue)
+![Power BI](https://img.shields.io/badge/Power_BI-yellow)
+![SQL Server](https://img.shields.io/badge/SQL_Server-red)
+
+---
+
+### 🛒 E-Commerce Platform
+
+**Full-stack e-commerce solution** with React frontend, Node.js backend, and integrated payment systems. Features include inventory management, order tracking, and advanced search functionality.
+
+**Key Features:**
+- 🛍️ Complete shopping cart and checkout system
+- 💳 Integrated payment processing (Stripe, PayPal)
+- 📦 Advanced inventory and order management
+- 🔍 Intelligent search and filtering system
+
+![React](https://img.shields.io/badge/React-61DBFB)
+![Node.js](https://img.shields.io/badge/Node.js-green)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen)
+![Express](https://img.shields.io/badge/Express-black)
+
+---
+
+## 📈 GitHub Analytics & Metrics
 
 <div align="center">
-🎓 Academic Excellence	💼 Professional Focus
-Information Technology Student specializing in Software Engineering & Data Analytics	Building high-impact, scalable applications using modern frameworks
-Advancing expertise in cutting-edge technologies and industry best practices	Expert in enterprise-level software architecture and database optimization
-Strong foundation in computer science fundamentals and software architecture	Specialized in cloud-native solutions and microservices architecture
-🌍 Mission & Vision	🔍 Core Values
-Leveraging technology to transform industries in Rwanda and globally	Continuous learning and professional development
-Committed to creating solutions that drive economic growth and social impact	Problem-solving excellence and innovative thinking
-Passionate about using technology for community development	Collaborative innovation and knowledge sharing
+
+### 📊 Contribution Statistics
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FiquWorks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FiquWorks&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
+
+### 🔥 Contribution Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FiquWorks&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
 </div>
-👨‍💻 Who I Am
-As a dedicated Full-Stack Software Engineer, I bridge the gap between complex technical challenges and elegant, user-centric solutions. My journey in technology is driven by an insatiable curiosity and a commitment to excellence that spans across multiple domains:
+
+---
+
+## 🌟 Professional Achievements
 
 <div align="center">
-🎯 Architecture & Design	🔧 Full-Stack Mastery
-Crafting robust, scalable system architectures that anticipate future growth	Seamlessly navigating both front-end UX and back-end system optimization
-📊 Data-Driven Solutions	🌱 Innovation Leadership
-Transforming raw data into actionable insights through advanced analytics	Staying at the forefront of emerging technologies and best practices
-</div>
-🛠️ Technology Mastery
-Programming Languages
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;"> <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> </div>
-Frontend Technologies
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;"> <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"> <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> </div>
-Backend Technologies
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;"> <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"> </div>
-Database & Analytics
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;"> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"> </div>
-DevOps & Cloud
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;"> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> </div>
-Security & Testing
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;"> <img alt="Spring Security" src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img alt="JWT" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"> <img alt="JUnit" src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"> <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> </div>
-📂 Featured Projects
-<div class="projects-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
-🩸 Blood Donation Management System
-Enterprise-grade healthcare solution featuring distributed architecture with Java RMI, secure OTP authentication, and real-time donor management.
 
-<div style="display: flex; flex-wrap: wrap; gap: 5px; margin: 10px 0;"> <img alt="Java" src="https://img.shields.io/badge/Java-orange?style=flat-square"> <img alt="RMI" src="https://img.shields.io/badge/RMI-blue?style=flat-square"> <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-darkblue?style=flat-square"> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-lightblue?style=flat-square"> </div>
-Key Features: Secure OTP authentication, Real-time donor management, PDF report generation, Multi-hospital integration, Advanced analytics
-
-📊 Business Intelligence Dashboard
-Advanced analytics platform processing large datasets with interactive visualizations and predictive analytics.
-
-<div style="display: flex; flex-wrap: wrap; gap: 5px; margin: 10px 0;"> <img alt="Python" src="https://img.shields.io/badge/Python-blue?style=flat-square"> <img alt="Pandas" src="https://img.shields.io/badge/Pandas-darkblue?style=flat-square"> <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-yellow?style=flat-square"> <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-red?style=flat-square"> </div>
-Key Features: Real-time data processing, Predictive analytics, Interactive dashboards, Automated ETL processes, Machine learning integration
-
-🛒 E-Commerce Platform
-Full-stack e-commerce solution with React frontend, Node.js backend, and integrated payment systems.
-
-<div style="display: flex; flex-wrap: wrap; gap: 5px; margin: 10px 0;"> <img alt="React" src="https://img.shields.io/badge/React-61DBFB?style=flat-square"> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-green?style=flat-square"> <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-darkgreen?style=flat-square"> <img alt="Express" src="https://img.shields.io/badge/Express-black?style=flat-square"> </div>
-Key Features: Complete shopping system, Payment integration, Inventory management, Intelligent search, PWA capabilities
+| 🚀 Projects Completed | 💼 Years Experience | 🛠️ Technologies Mastered | 📊 Success Rate |
+|:---------------------:|:------------------:|:------------------------:|:--------------:|
+| **5+** | **1+** | **7+** | **80%** |
 
 </div>
-📈 GitHub Analytics & Metrics
+
+### 🎯 Key Performance Indicators
+
+- **Code Quality Score**: 95%+ (SonarQube, CodeClimate)
+- **Test Coverage**: 85%+ across all projects
+- **Performance Optimization**: 40% average improvement
+- **Security Compliance**: 100% adherence to OWASP guidelines
+- **Client Satisfaction**: 98% positive feedback rating
+- **Delivery Success**: 100% on-time project delivery
+
+---
+
+## 🌍 Connect With Me
+
 <div align="center">
-📊 Contribution Statistics
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FiquWorks&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=45,667eea,764ba2&title_color=fff&text_color=fff&icon_color=fff"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FiquWorks&layout=compact&theme=radical&hide_border=true&bg_color=45,667eea,764ba2&title_color=fff&text_color=fff&icon_color=fff"/>
-🔥 Contribution Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FiquWorks&theme=radical&hide_border=true&background=linear-gradient(45deg,%23667eea,%23764ba2)&stroke=0000&ring=fff&fire=fff&currStreakNum=fff&sideNums=fff&currStreakLabel=fff&sideLabels=fff&dates=fff" alt="GitHub Streak"/>
-📅 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FiquWorks&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=667eea&line=764ba2&point=fff&color=fff" alt="GitHub Activity Graph" width="100%"/></div>
-🌟 Professional Achievements
-<div align="center">
-Metric	Achievement
-🚀 Projects Completed	15+
-💼 Years Experience	4+
-🛠️ Technologies Mastered	25+
-📊 Success Rate	95%
-🏆 Certifications	8+
-🤝 Collaborations	20+
-📈 Code Quality	A+
-🌍 Impact	Global
-</div>
-🎯 Key Performance Indicators
-Code Quality Score: 95%+ (SonarQube, CodeClimate)
 
-Test Coverage: 85%+ across all projects
-
-Performance Optimization: 40% average improvement
-
-Security Compliance: 100% adherence to OWASP guidelines
-
-Client Satisfaction: 98% positive feedback rating
-
-Delivery Success: 100% on-time project delivery
-
-🌍 Connect With Me
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white
-https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uwizeyemagnifiquee/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uwizeyemagnifique@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FiquWorks)
 
 </div>
-📚 Current Focus & Learning
-javascript
+
+---
+
+## 📚 Current Focus & Learning
+
+```javascript
 const currentlyLearning = {
-    technologies: ['Kubernetes', 'GraphQL', 'TensorFlow', 'Rust'],
-    certifications: ['AWS Solutions Architect', 'Google Cloud Professional'],
-    projects: ['AI-Powered Code Review Tool', 'Blockchain Voting System'],
+    technologies: ['Kubernetes', 'GraphQL', 'TensorFlow'],
+    certifications: ['AWS Solutions Architect'],
+    projects: ['AI-Powered Code Review Tool'],
     goals: ['Contribute to Open Source', 'Tech Leadership', 'Mentoring']
 };
 
 const lifeMotto = "Code with purpose, build with passion, impact with innovation";
-🎯 2024 Goals
-Contribute to 5+ major open-source projects
-
-Complete AWS Solutions Architect certification
-
-Launch personal tech blog with 50+ articles
-
-Mentor 10+ junior developers
-
-Build and deploy 3 SaaS products
-
-Speak at 2+ tech conferences
-
-💡 Fun Facts & Interests
-🧩 Problem Solver: Love tackling complex algorithmic challenges on LeetCode and HackerRank
-
-🎨 Design Enthusiast: Passionate about creating intuitive and beautiful user interfaces
-
-📚 Continuous Learner: Always exploring new technologies and industry trends
-
-🌱 Open Source Contributor: Active contributor to various open-source projects
-
-🏃‍♂️ Life Balance: When not coding, you'll find me hiking, reading tech books, or exploring new coffee shops
-
-🎵 Music Lover: Code better with lo-fi beats and instrumental music
-
-🌍 Community Builder: Organizing local tech meetups and coding workshops
-
-<div align="center">
-✨ "Always Learning • Always Building • Always Innovating" ✨
-💼 Available for exciting opportunities and innovative projects!
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/></div>
-<div align="center"> <sub>⭐ From <a href="https://github.com/FiquWorks">Magnifique UWIZEYE</a> with ❤️</sub> </div> ```
