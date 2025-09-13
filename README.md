@@ -217,7 +217,7 @@ As a dedicated **Full-Stack Software Engineer**, I bridge the gap between comple
 
 | 🚀 Projects Completed | 💼 Years Experience | 🛠️ Technologies Mastered | 📊 Success Rate |
 |:---------------------:|:------------------:|:------------------------:|:--------------:|
-| **15+** | **4+** | **25+** | **95%** |
+| **5+** | **1+** | **7+** | **80%** |
 
 </div>
 
