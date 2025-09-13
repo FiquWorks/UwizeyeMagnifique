@@ -237,10 +237,17 @@ As a dedicated **Full-Stack Software Engineer**, I bridge the gap between comple
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uwizeyemagnifiquee/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uwizeyemagnifique@gmail.com)
+<a href="mailto:uwizeyemagnifique@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FiquWorks)
 
 </div>
+
+<p align="center">
+  Or email me directly: <a href="mailto:uwizeyemagnifique@gmail.com">uwizeyemagnifique@gmail.com</a>
+</p>
+
 
 
 
