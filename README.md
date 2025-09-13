@@ -29,6 +29,22 @@ I'm a passionate **Full-Stack Software Engineer** and **IT Professional** dedica
 </td>
 <td width="50%">
 
+## 🎯 Professional Overview
+
+I'm a passionate **Full-Stack Software Engineer** and **IT Professional** dedicated to architecting scalable, secure, and innovative software solutions. With comprehensive expertise spanning both front-end and back-end technologies, I specialize in building enterprise-grade applications that solve real-world challenges and drive digital transformation.
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎓 Academic Excellence
+- **Information Technology Student** specializing in Software Engineering & Data Analytics
+- Advancing expertise in cutting-edge technologies and industry best practices
+- Strong foundation in computer science fundamentals and software architecture
+
+</td>
+<td width="50%">
+
 ### 💼 Professional Focus
 - Building **high-impact, scalable applications** using modern frameworks
 - Expert in enterprise-level software architecture and database optimization
@@ -38,6 +54,7 @@ I'm a passionate **Full-Stack Software Engineer** and **IT Professional** dedica
 </tr>
 <tr>
 <td width="50%">
+
 ### 🌍 Mission & Vision
 - Leveraging technology to **transform industries in Rwanda and globally**
 - Committed to creating solutions that drive economic growth and social impact
