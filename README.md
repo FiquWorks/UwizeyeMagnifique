@@ -12,7 +12,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FiquWorks&label=Profile%20Views&color=4ECDC4&style=flat)
 
-
 </div>
 
 ---
@@ -259,8 +258,3 @@ const currentlyLearning = {
 };
 
 const lifeMotto = "Code with purpose, build with passion, impact with innovation";
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Thank-You-For-Visiting-success?style=for-the-badge&logo=github&logoColor=white" alt="Thank You Banner"/>
-</p>
-
