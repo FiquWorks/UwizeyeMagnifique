@@ -21,23 +21,11 @@ I'm a passionate **Full-Stack Software Engineer** and **IT Professional** dedica
 <tr>
 <td width="50%">
 
-### 🎓 Academic Excellence
-- **Information Technology Student** specializing in Software Engineering & Data Analytics
-- Advancing expertise in cutting-edge technologies and industry best practices
-- Strong foundation in computer science fundamentals and software architecture
+| 🎓 Academic Excellence | 💼 Professional Focus |
+|------------------------|--------------------|
+| Information Technology Student specializing in Software Engineering & Data Analytics | Building high-impact, scalable applications using modern frameworks |
+| Strong foundation in computer science fundamentals and software architecture | Expert in enterprise-level software architecture and database optimization |
 
-</td>
-<td width="50%">
-
-### 💼 Professional Focus
-- Building **high-impact, scalable applications** using modern frameworks
-- Expert in enterprise-level software architecture and database optimization
-- Specialized in cloud-native solutions and microservices architecture
-
-</td>
-</tr>
-<tr>
-<td width="50%">
 
 ### 🌍 Mission & Vision
 - Leveraging technology to **transform industries in Rwanda and globally**
