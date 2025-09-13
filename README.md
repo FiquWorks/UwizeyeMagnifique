@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Java+%26+Spring+Specialist;React+%26+Node.js+Expert;Data+Analytics+Enthusiast;Problem+Solver+%26+Innovator" alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FiquWorks&label=Profile%20Views&color=4ECDC4&style=flat)
-![GitHub Followers](https://img.shields.io/github/followers/FiquWorks?label=Followers&style=social)
+
 
 </div>
 
