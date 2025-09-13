@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Magnifique UWIZEYE
+# 👋 Hello, I'm Fique Rwabuhihi
 
 <div align="center">
 
@@ -12,22 +12,6 @@
 </div>
 
 ---
-
-## 🎯 Professional Overview
-
-I'm a passionate **Full-Stack Software Engineer** and **IT Professional** dedicated to architecting scalable, secure, and innovative software solutions. With comprehensive expertise spanning both front-end and back-end technologies, I specialize in building enterprise-grade applications that solve real-world challenges and drive digital transformation.
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎓 Academic Excellence
-- **Information Technology Student** specializing in Software Engineering & Data Analytics
-- Advancing expertise in cutting-edge technologies and industry best practices
-- Strong foundation in computer science fundamentals and software architecture
-
-</td>
-<td width="50%">
 
 ## 🎯 Professional Overview
 
@@ -136,6 +120,25 @@ As a dedicated **Full-Stack Software Engineer**, I bridge the gap between comple
 
 </div>
 
+### DevOps & Cloud
+<div align="center">
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+### Security & Testing
+<div align="center">
+
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
 
 ---
 
@@ -233,16 +236,12 @@ As a dedicated **Full-Stack Software Engineer**, I bridge the gap between comple
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uwizeyemagnifiquee/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uwizeyemagnifique@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fique-rwabuhihi-developer)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fique.rwabuhihi@developer.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FiquWorks)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fique_dev)
 
 </div>
-
-
-
-
-
 
 ---
 
