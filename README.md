@@ -1,3 +1,8 @@
+<!-- Top Gradient Decoration -->
+<p align="center">
+  <img src="https://via.placeholder.com/1200x80/0f172a-1e293b/000000?text=" alt="Top Gradient" style="width:100%; height:auto;" />
+</p>
+
 # 👋 Hello, I'm Magnifique UWIZEYE
 
 <div align="center">
@@ -255,3 +260,8 @@ const currentlyLearning = {
 };
 
 const lifeMotto = "Code with purpose, build with passion, impact with innovation";
+
+<!-- Bottom Gradient Decoration -->
+<p align="center">
+  <img src="https://via.placeholder.com/1200x80/1e293b-0f172a/000000?text=" alt="Bottom Gradient" style="width:100%; height:auto;" />
+</p>
