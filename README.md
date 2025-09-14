@@ -216,7 +216,7 @@ As a dedicated **Full-Stack Software Engineer**, I bridge the gap between comple
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FiquWorks&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
 
 ### 🔥 Contribution Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FiquWorks&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MagnifiqueUwizeye01&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
