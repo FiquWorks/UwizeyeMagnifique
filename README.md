@@ -1,7 +1,8 @@
-<!-- Top Gradient Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/FiquWorks/Blood-donation-Managment-system/main/assets/top-gradient.svg" alt="Top Gradient Banner" width="100%">
-</p>
+<div align="center">
+  
+![Professional Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,12,20&height=220&section=header&text=Ishimwe%20Egîdë&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20Project%20Leader%20%7C%20Tech%20Visionary&descAlignY=58&descSize=18)
+
+</div>
 
   #  Hello, I'm Magnifique UWIZEYE
   
