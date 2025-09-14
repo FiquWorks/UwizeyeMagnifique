@@ -252,7 +252,6 @@ As a dedicated **Full-Stack Software Engineer**, I bridge the gap between comple
 </div>
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/FiquWorks/Blood-donation-Managment-system/main/assets/bottom-gradient.svg" alt="Bottom Gradient Banner" width="100%">
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/FiquWorks/FiquWorks/refs/heads/main/closing-banner.svg" alt="Closing Banner" width="100%"/>
+</div>
