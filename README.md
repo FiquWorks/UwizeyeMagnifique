@@ -1,8 +1,8 @@
 <div align="center">
-
-![Uwizeye Magnifique](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,8,15,19,21,24,27,29&height=230&section=header&text=Uwizeye%20Magnifique&fontSize=55&fontColor=fff&animation=scale&fontAlignY=35&desc=Software%20Engineer%20⚡%20Data%20Enthusiast%20🚀%20Future%20Innovator&descAlignY=58&descSize=20)
-
+  <img src="https://raw.githubusercontent.com/UwizeyeMagnifique/FiquWorks/main/banner.svg" alt="Uwizeye Magnifique - Software Engineer" width="100%"/>
 </div>
+
+<br>
 
 
 
