@@ -1,6 +1,6 @@
 <!-- Top Gradient Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ishimweegide23/ishimweegide23/main/assets/top-gradient.svg" alt="Top Gradient Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/FiquWorks/Blood-donation-Managment-system/main/assets/top-gradient.svg" alt="Top Gradient Banner" width="100%">
 </p>
 
 # 👋 Hello, I'm Magnifique UWIZEYE
@@ -262,5 +262,5 @@ const currentlyLearning = {
 const lifeMotto = "Code with purpose, build with passion, impact with innovation";
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ishimweegide23/ishimweegide23/main/assets/bottom-gradient.svg" alt="Bottom Gradient Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/FiquWorks/Blood-donation-Managment-system/main/assets/bottom-gradient.svg" alt="Bottom Gradient Banner" width="100%">
 </p>
