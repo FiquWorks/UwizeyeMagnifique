@@ -249,18 +249,6 @@ As a dedicated **Full-Stack Software Engineer**, I bridge the gap between comple
 
 ---
 
-## 📚 Current Focus & Learning
-
-``javascript
-const currentlyLearning = {
-    technologies: ['Kubernetes', 'GraphQL', 'TensorFlow'],
-    certifications: ['AWS Solutions Architect'],
-    projects: ['AI-Powered Code Review Tool'],
-    goals: ['Contribute to Open Source', 'Tech Leadership', 'Mentoring']
-};
-
-const lifeMotto = "Code with purpose, build with passion, impact with innovation";
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/FiquWorks/Blood-donation-Managment-system/main/assets/bottom-gradient.svg" alt="Bottom Gradient Banner" width="100%">
 </p>
