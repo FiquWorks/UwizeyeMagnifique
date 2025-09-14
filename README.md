@@ -7,7 +7,9 @@
 
 
 
-  #  Hello, I'm Magnifique UWIZEYE
+ <div align="center">
+  <h1> Hello, I'm Magnifique UWIZEYE </h1>
+</div>
   
 <div align="center">
 
@@ -68,7 +70,7 @@ I'm a passionate **Full-Stack Software Engineer** and **IT Professional** dedica
 
 ---
 
-## 👨‍💻 Who I Am
+##  Who I Am
 
 As a dedicated **Full-Stack Software Engineer**, I bridge the gap between complex technical challenges and elegant, user-centric solutions. My journey in technology is driven by an insatiable curiosity and a commitment to excellence that spans across multiple domains:
 
