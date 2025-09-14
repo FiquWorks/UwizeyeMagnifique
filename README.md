@@ -4,7 +4,7 @@
 </p>
 
   #  Hello, I'm Magnifique UWIZEYE
-
+  
 <div align="center">
 
 ## 💻 Full-Stack Software Engineer | Problem Solver | Innovation Driver
