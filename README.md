@@ -1,8 +1,9 @@
 <div align="center">
   
-![Professional Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,20,30&height=220&section=header&text=Uwizeye%20Magnifique&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20⚡%20Data%20Enthusiast%20🚀%20Future%20Innovator&descAlignY=58&descSize=18)
+![Professional Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,20,30&height=220&section=header&text=Uwizeye%20Magnifique&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Turning%20Ideas%20into%20Scalable%20Software%20%26%20Real-World%20Solutions&descAlignY=58&descSize=18)
 
 </div>
+
 
 
   #  Hello, I'm Magnifique UWIZEYE
