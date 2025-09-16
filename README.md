@@ -38,7 +38,7 @@ I'm a passionate **Full-Stack Software Engineer** and **IT Professional** dedica
 - Strong foundation in computer science fundamentals and software architecture
 
 </td>
-<td width="50%">
+<td width="50%"> 
 
 ### 💼 Professional Focus
 - Building **high-impact, scalable applications** using modern frameworks
