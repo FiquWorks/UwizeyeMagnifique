@@ -212,13 +212,17 @@ As a dedicated **Full-Stack Software Engineer**, I bridge the gap between comple
 <p align="center">
 
 ### 📊 Contribution Statistics  
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=MagnifiqueUwizeye01&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagnifiqueUwizeye01&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" height="150"/>
-
-### 🔥 Contribution Streak  
-<img src="https://streak-stats.demolab.com?user=MagnifiqueUwizeye01&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
 </p>
+
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MagnifiqueUwizeye01&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</p>
+
 
 
 
