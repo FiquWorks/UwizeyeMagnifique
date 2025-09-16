@@ -84,7 +84,7 @@ As a dedicated **Full-Stack Software Engineer**, I bridge the gap between comple
 
 🤝 **Collaborative Excellence** - Building strong partnerships with cross-functional teams, translating business requirements into technical solutions that deliver measurable impact
 
----
+--- 
 
 ## 🛠️ Technology Mastery
 
