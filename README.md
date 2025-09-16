@@ -56,7 +56,7 @@ I'm a passionate **Full-Stack Software Engineer** and **IT Professional** dedica
 - Passionate about using technology for community development 
 
 </td>
-<td width="50%">
+<td width="50%"> 
 
 ### 🔍 Core Values
 - **Continuous learning** and professional development 
