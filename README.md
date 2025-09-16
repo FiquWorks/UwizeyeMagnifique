@@ -209,16 +209,18 @@ As a dedicated **Full-Stack Software Engineer**, I bridge the gap between comple
 
 ## 📈 GitHub Analytics & Metrics
 
-<div align="center">
+<p align="center">
 
-### 📊 Contribution Statistics
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MagnifiqueUwizeye01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagnifiqueUwizeye01&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
+### 📊 Contribution Statistics  
+<img src="https://github-readme-stats.vercel.app/api?username=MagnifiqueUwizeye01&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagnifiqueUwizeye01&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" height="150"/>
 
-### 🔥 Contribution Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MagnifiqueUwizeye01&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+### 🔥 Contribution Streak  
+<img src="https://streak-stats.demolab.com?user=MagnifiqueUwizeye01&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-</div>
+</p>
+
+
 
 ---
 
