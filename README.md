@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/FiquWorks/FiquWorks/refs/heads/main/banner.svg" alt="Uwizeye Magnifique - Software Engineer" width="100%"/>
 </div>
-
+ 
 <br>
  
  
