@@ -64,7 +64,7 @@ I'm a passionate **Full-Stack Software Engineer** and **IT Professional** dedica
 - Collaborative innovation and knowledge sharing
 - Quality-driven development with meaningful impact
 
-</td>
+</td> 
 </tr>
 </table>
 
