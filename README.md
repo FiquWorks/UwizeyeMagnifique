@@ -52,7 +52,7 @@ I'm a passionate **Full-Stack Software Engineer** and **IT Professional** dedica
 
 ### 🌍 Mission & Vision
 - Leveraging technology to **transform industries in Rwanda and globally**
-- Committed to creating solutions that drive economic growth and social impact
+- Committed to creating solutions that drive economic growth and social impact 
 - Passionate about using technology for community development 
 
 </td>
