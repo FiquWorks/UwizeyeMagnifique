@@ -46,7 +46,7 @@ I'm a passionate **Full-Stack Software Engineer** and **IT Professional** dedica
 - Specialized in cloud-native solutions and microservices architecture
 
 </td>
-</tr>
+</tr> 
 <tr>
 <td width="50%">
 
