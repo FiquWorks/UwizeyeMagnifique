@@ -59,7 +59,7 @@ I'm a passionate **Full-Stack Software Engineer** and **IT Professional** dedica
 <td width="50%">
 
 ### 🔍 Core Values
-- **Continuous learning** and professional development
+- **Continuous learning** and professional development 
 - Problem-solving excellence and innovative thinking
 - Collaborative innovation and knowledge sharing
 - Quality-driven development with meaningful impact
