@@ -13,7 +13,7 @@
    
 <div align="center">
 
-## 💻 Full-Stack Software Engineer | Problem Solver | Innovation Driver
+## 💻 Full-Stack Software Engineer | Problem Solver | Innovation Driver 
  
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Java+%26+Spring+Specialist;React+%26+Node.js+Expert;Data+Analytics+Enthusiast;Problem+Solver+%26+Innovator" alt="Typing SVG" />
 
